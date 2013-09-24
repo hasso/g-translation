@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="number_of_photos">
+        <item quantity="other">%d fotot</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="note_archived">
+        <item quantity="other">%d märget arhiveeritud</item>
+        <item quantity="one">%d märge arhiveeritud</item>
+    </plurals>
+    <plurals name="note_deleted">
+        <item quantity="other">%d märget kustutatud</item>
+        <item quantity="one">%d märge kustutatud</item>
+    </plurals>
+    <plurals name="extra_list_items">
+        <item quantity="other">+ veel %d rida</item>
+        <item quantity="one">+ veel %d rida</item>
+    </plurals>
+    <plurals name="total_list_items">
+        <item quantity="other">%d rida</item>
+        <item quantity="one">%d rida</item>
+    </plurals>
+    <plurals name="number_of_reminders">
+        <item quantity="other">%d meeldetuletust</item>
+        <item quantity="one">%d meeldetuletus</item>
+    </plurals>
+</resources>
