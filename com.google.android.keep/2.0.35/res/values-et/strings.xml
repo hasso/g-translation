@@ -31,8 +31,8 @@
     <string name="year_picker_description">Nimekiri aastaarvudest</string>
     <string name="select_day">Kuupäeva valimine</string>
     <string name="select_year">Aasta valimine</string>
-    <string name="item_is_selected">Valitud on %1$s</string>
-    <string name="deleted_key">%1$s märge kustutatud</string>
+    <string name="item_is_selected">Praegu on valitud %1$s</string>
+    <string name="deleted_key">Number %1$s on kustutatud</string>
     <string name="color_picker_default_title">Värvi valimine</string>
     <string name="color_swatch_description">%1$d värv</string>
     <string name="color_swatch_description_selected">Valitud on %1$d värv</string>
@@ -40,7 +40,7 @@
     <string name="app_name_full">Google Keep</string>
     <string name="menu_new_note">Uus märge</string>
     <string name="menu_new_list">Uus nimekiri</string>
-    <string name="menu_new_recording">Uus helisalvestis</string>
+    <string name="menu_new_recording">Uus kõnesalvestis</string>
     <string name="menu_new_picture">Uus foto</string>
     <string name="menu_launch_camera">Tee foto</string>
     <string name="menu_launch_gallery">Vali pilt</string>
@@ -63,7 +63,7 @@
     <string name="menu_cancel">Tühista</string>
     <string name="search_notes_hint"><i>Otsing märkmetest</i></string>
     <string name="full_screen">Täisekraan</string>
-    <string name="add_quick_note_hint"><i>Märkme tekst</i></string>
+    <string name="add_quick_note_hint"><i>Uue märkme tekst</i></string>
     <string name="empty_view_no_notes">Lisa märge</string>
     <string name="empty_view_no_archived_notes">Arhiveeritud märkmeid pole</string>
     <string name="empty_view_no_reminders">Lisa meeldetuletus</string>
@@ -103,7 +103,7 @@
     <string name="note_body_hint"><i>Märkme tekst</i></string>
     <string name="menu_camera">Lisa foto</string>
     <string name="remove_photo">Kas eemaldada see foto?</string>
-    <string name="remove_voice_recording">Kas eemaldada see helisalvestis?</string>
+    <string name="remove_voice_recording">Kas eemaldada see kõnesalvestis?</string>
     <string name="link_action_open">Ava</string>
     <string name="link_action_edit">Muuda</string>
     <string name="remove">Eemalda</string>
@@ -170,7 +170,7 @@
     <string name="tap_to_reset">Puudutage seadistamiseks</string>
     <string name="widget_note_type_text">Tekstimärge</string>
     <string name="widget_note_type_list">Nimekiri</string>
-    <string name="widget_note_type_audio">Helisalvestis</string>
+    <string name="widget_note_type_audio">Kõnesalvestis</string>
     <string name="widget_note_type_photo">Foto</string>
     <string name="widget_choose_account_title">Konto valimine</string>
     <string name="sync_dialog_message">Sünkroonimine \u2026 Palun oota \u2026</string>
