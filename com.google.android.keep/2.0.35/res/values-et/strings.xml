@@ -35,7 +35,7 @@
     <string name="deleted_key">Number %1$s on kustutatud</string>
     <string name="color_picker_default_title">Värvi valimine</string>
     <string name="color_swatch_description">%1$d värv</string>
-    <string name="color_swatch_description_selected">Valitud on %1$d värv</string>
+    <string name="color_swatch_description_selected">Praegu on valitud %1$d värv</string>
     <string name="app_name">Keep</string>
     <string name="app_name_full">Google Keep</string>
     <string name="menu_new_note">Uus märge</string>
@@ -45,8 +45,8 @@
     <string name="menu_launch_camera">Tee foto</string>
     <string name="menu_launch_gallery">Vali pilt</string>
     <string name="menu_add_picture">Pildi lisamine</string>
-    <string name="menu_switch_to_list_view">Vaade ühe veeruna</string>
-    <string name="menu_switch_to_grid_view">Vaade mitme veeruna</string>
+    <string name="menu_switch_to_list_view">Üks veerg</string>
+    <string name="menu_switch_to_grid_view">Mitu veergu</string>
     <string name="menu_search">Otsing</string>
     <string name="menu_sync">Värskenda</string>
     <string name="menu_settings">Seaded</string>
