@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <plurals name="number_of_photos">
+        <item quantity="other">%d fotot</item>
+        <item quantity="one">%d foto</item>
+    </plurals>
+    <plurals name="note_archived">
+        <item quantity="other">%d märget arhiveeritud</item>
+        <item quantity="one">Märge arhiveeritud</item>
+    </plurals>
+    <plurals name="note_unarchived">
+        <item quantity="other">%d märget arhiivist tagasi toodud</item>
+        <item quantity="one">Märge arhiivist tagasi toodud</item>
+    </plurals>
+    <plurals name="note_deleted">
+        <item quantity="other">Kas kustutada %d märget igaveseks?</item>
+        <item quantity="one">Kas kustutada märge igaveseks?</item>
+    </plurals>
+    <plurals name="note_trashed">
+        <item quantity="other">%d märget prügikasti liigutatud</item>
+        <item quantity="one">Märge prügikasti liigutatud</item>
+    </plurals>
+    <plurals name="note_restored">
+        <item quantity="other">%d märget taastatud</item>
+        <item quantity="one">Märge taastatud</item>
+    </plurals>
+    <plurals name="list_item_deleted">
+        <item quantity="other">%d rida kustutatud</item>
+        <item quantity="one">Rida kustutatud</item>
+    </plurals>
+    <plurals name="extra_list_items">
+        <item quantity="other">+ veel %d rida</item>
+        <item quantity="one">+ veel %d rida</item>
+    </plurals>
+    <plurals name="total_list_items">
+        <item quantity="other">%d rida</item>
+        <item quantity="one">%d rida</item>
+    </plurals>
+    <plurals name="number_of_reminders">
+        <item quantity="other">%d meeldetuletust</item>
+        <item quantity="one">%d meeldetuletus</item>
+    </plurals>
+    <plurals name="error_images_still_processing">
+        <item quantity="other">Piltide töötlemine …</item>
+        <item quantity="one">Pildi töötlemine …</item>
+    </plurals>
+</resources>
